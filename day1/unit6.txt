@@ -1,0 +1,32 @@
+Returning a shirt to the store.
+----------------------------------------------------------------
+- Can I return this?
+- What is this?
+- It's a shirt.
+- What's wrong with it?
+- Nothing's wrong with it.
+- It just doesn't fit.
+- Is the color wrong?
+- No. The color is fine.
+- But the size is much to small
+- Do you remember when you bought it?
+- I didn't.
+- You didn't by the shirt.
+- Who bought it?
+- My friend bought it.
+- Do you remember when your friend bought it?
+- She bought it last week.
+- Ok. Good. Do you have the receipt?(receipt - biên lai)
+- As a matter of fact I do. (có một vấn đề mà tôi đang gặp phải)
+- Let me have the shirt and your receipt, please.
+- Would you like to exchange it for a larger size?
+- Can I get cash back instead?
+- No. But I can give you store credit.
+- What is that?
+- Well, the shirt was $19 and 99 cents right?
+- Yeah, that right.
+- Well, I can give you a store coupon, good for $19 and 99 cents.
+- Or you can exchange the shirt for a larger size.
+- Ok. I'll take the coupon.
+- Okay.
+- Thank you.

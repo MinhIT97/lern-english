@@ -1,0 +1,44 @@
+Do you have a pet?
+----------------------------------------------------------------
+- Do you have a pet?
+- Yes, I do.
+- What kind of pet do you have? (Bạn có những con vật nào) (Kind - loại) (What kind of - Những loại nào)
+- Can you guess? (guess - đoán)
+- Can I guess? (Tôi có thể đoán)
+- Do you have pet dog?
+- No. I do not have a pet dog.
+- Ok.
+- You do not have a pet dog.
+- Do you have a pet cat?
+- No. I do not have a pet cat.
+- You do not have a pet cat.
+- Do you have a pet fish?
+- No. I do not have a pet fish.
+- You don't have a pet fish.
+- You can not guess?
+- Do you want me to tell you?
+- No. wait a minute.
+- I'am thinking. Give me one more guess.
+- Ok. I'll give you one more guess.
+- I know. You have a pet monkey.
+- What? a pet monkey?
+- Why would I have a pet monkey?
+- Beacaus you look like a monkey.
+- I don't like look a monkey.
+- You look like a monkey.
+- Ok. I cannot guess.
+- What kind of pet do you have?
+- I have a pet iguana.
+- An iguana ? How unusual?
+- Where did you get it?
+- From the pet shop.
+- How long have you had it?
+- Uh... about four years.
+- Wow. What is your iguana's name?
+- Ah. His name is Winnie.
+- Winnie. What does Winnie do?
+- Winnie doesn't do very much. He's quite lazy.
+- oh!
+- What does Winnie eat?
+- Winnie is a vegetarian. Winnie eats vegetables.
+- That's quite interesting!

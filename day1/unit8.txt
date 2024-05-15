@@ -1,0 +1,30 @@
+What kind of food do you like?
+----------------------------------------------------------------
+- What kind of food do you like?
+- I like all kind foods.
+- Really?
+- Can you eat spicy food?
+- I love spicy food The Hotter the better.
+- You are so lucky!
+- Why I am lucky?
+- It's terrible when I eat a hot pepper.
+- Can you eat Thai or Mexican food?
+- Yes. I can but only if it's really bland.
+- Do you eat out very often?
+- Sometimes.
+- Do you have a favourite restourant?
+- I do have a favourite vegetarian restourant.
+- Are you a vegetarian.
+- Yes. I am.
+- So you don't eat chicken or pork?
+- No chicken. No pork.
+- But i do eat fish.
+- Are you a vegetarian fore health reasons or religious reasons?
+- Most for health reasons.
+- Huh. All the talk about food has made me hungry.
+- Are you hungry?
+- Yes. I am.
+- Would you like to go to my favourite vegetarian restourant?
+- What is good there?
+- Well, of course. The fresh vegetables are outstanding.
+- Sounds delicious. Let's go.

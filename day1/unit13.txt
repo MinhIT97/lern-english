@@ -1,0 +1,34 @@
+What would you like to do?
+----------------------------------------------------------------
+- I'm bored Let's do something.
+- What do you want to do?
+- I don't know. Anything is fine.
+- Let's go see a movie.
+- No. I went to see 3 movies this week.
+- Three. Wow. Why so many?
+- Because I was bored all week.
+- Well, do you want to play some sports?
+- No, I don't want to play any sports.
+- Why not? Sports are fun.
+- Weel, I don't want to run around and get all hot.
+- Yes. It's kind of hot.
+- How about shopping? You want to go shopping?
+- I like shopping.
+- But have to watch my money until the end of the month.
+- Well, we can go eat dinner.
+- Dinner is a good idea.
+- Where would you like to eat?
+- I heard about this new Japanese restaurant down at the mall.
+- Is it expensive?
+- It's not to expensive but it's not cheap.
+- Ok. Well, that sounds good.
+- When we're finished. We can go window shopping.
+- That sounds like fun.
+- Oh. And if we want we can play some indoor, air conditioned sports.
+- Really?
+- Which sports has air conditioning?
+- Bowling?
+- Bowling?
+- Right.
+- Great. Let's go.
+- Ok.
